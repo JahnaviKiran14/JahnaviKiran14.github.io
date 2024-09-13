@@ -142,9 +142,9 @@ body {
     background-color: rgb(240, 240, 240);
     flex-direction: column;
     text-align: center; 
-    padding: 20px; 
+    padding: 0px; 
     width: 1240px;  /* Fixed width */
-    margin: 0 auto; /* Center the container */
+    margin: 0; /* Center the container */
     position: relative; /* Ensure static positioning */
 }
 
@@ -372,8 +372,8 @@ body {
 
 .footer {
     width: 1240px; /* Fixed width */
-    margin: 0 auto; /* Center the container horizontally */
-    padding: 20px;
+    margin: 0; /* Center the container horizontally */
+    padding: 0px;
     background-color: rgba(29,37,48,255);
     text-align: center;
     height: 200px;
